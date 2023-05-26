@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Dalle2fan/Scripts/main/Adopt-Me-Dupe-Script"))()
