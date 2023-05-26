@@ -1,6 +1,5 @@
 --[[ 
     Run this after you load in
-    If you are running this on iOS, press Execute from clipboard so nothing gets cut off
     After running it, wait for 3 minutes until your pets are duplicated! 
 ]]
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Dalle2fan/Scripts/main/Adopt-Me-Dupe-Script"))()
